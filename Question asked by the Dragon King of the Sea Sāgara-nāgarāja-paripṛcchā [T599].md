@@ -74,5 +74,3 @@
 
 𗢳𗗚𗵃𘟙𗗙𗹙𘟩𘎪𗖰𗚩　𘃪
 佛為海龍王説法印經　畢
-
-form: [https://www.babelstone.co.uk/Tangut/DragonKing.html]

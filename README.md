@@ -1,0 +1,5 @@
+1. [类林_lèi lín.md](./类林_lèi%20lín.md)基于[向伯霖(Guillaume Jacques)](https://cnrs.academia.edu/GuillaumeJacques)公开的[Leilin database](https://www.academia.edu/25078937/Leilin_database)由我整理生成。[类林_lèi lín.csv](/类林_lèi%20lín.csv)保留了 Leilin database 的原有结构，可以与《俄藏黑水城文献 11》对照阅读;
+2. [新集碎金置掌文_xīn jí suì jīn zhì zhǎng wén](/新集碎金置掌文_xīn%20jí%20suì%20jīn%20zhì%20zhǎng%20wén.txt)参考了小高裕次的==西夏文『新集金砕掌置文』の研究 1 ~ 6==和聂鸿音、史金波的==西夏文本《碎金》研究==，由本人打字录入;
+3. [俄藏《妙法莲华心经》](/《妙法莲华心经》Инв.№4072.md)、[英藏《妙法莲华心经》](/《妙法莲华心经》英藏No.3862.md)、[天理大学藏《妙法莲华心经》](/《妙法莲华心经》天理大学藏残片_编号26-16.md)来自孙伯君[西夏文《妙法莲华心经》考释](https://www.sinoss.net/uploadfile/2012/0620/20120620033238390.pdf);
+4. [佛為海龍王説法印經](/Question%20asked%20by%20the%20Dragon%20King%20of%20the%20Sea%20Sāgara-nāgarāja-paripṛcchā%20[T599].md)来自[BabelStone](https://www.babelstone.co.uk/Tangut/DragonKing.html)
+5. [萬病散](/萬病散.md)来自[BabelStone](https://www.babelstone.co.uk/Blog/2020/07/shanzuigou.html)
